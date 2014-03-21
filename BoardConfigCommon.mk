@@ -125,7 +125,7 @@ BOARD_HARDWARE_CLASS := device/sony/rhine-common/cmhw
 TARGET_RECOVERY_PIXEL_FORMAT := "RGBX_8888"
 BOARD_USE_CUSTOM_RECOVERY_FONT := \"roboto_23x41.h\"
 
-TARGET_RECOVERY_FSTAB := device/sony/rhine-common/rootdir/fstab.qcom
+TARGET_RECOVERY_FSTAB := device/sony/rhine-common/rootdir/twrp.fstab
 
 BOARD_FLASH_BLOCK_SIZE := 131072
 BOARD_HAS_NO_SELECT_BUTTON := true
